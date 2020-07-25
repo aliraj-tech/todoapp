@@ -1,0 +1,49 @@
+ *{
+    
+   
+  background-color: snow;
+
+}
+
+.butn{
+
+    background-color: yellow;
+    margin-left: 14px;
+    font-weight: bold;
+font-size: 20px;
+    border-radius: 4px;
+    height: 40px;
+    width: 90px;
+}
+
+.s{
+
+    font-weight: bold;
+    font-size: 16px;
+        border-radius: 4px;
+        margin-bottom: 3px;
+}
+
+
+.butn1{
+
+    height: 40px;
+    width: 60px;
+    margin-bottom: 3px;
+
+    background-color: orange;
+    margin-left: 50px;
+    font-weight: bold;
+font-size: 20px;
+    border-radius: 4px;
+}
+
+li {
+    text-align: center;
+    font-size: large;
+    font-family: sans-serif;
+    font-weight: bold;
+
+    
+
+margin-top: 11px;}
